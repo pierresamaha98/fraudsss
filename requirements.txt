@@ -1,6 +1,5 @@
 Flask
 pandas
 gunicorn
-pickle
 xgboost
 sklearn
