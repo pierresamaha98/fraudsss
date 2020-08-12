@@ -1,0 +1,5 @@
+Flask==1.1.1
+pandas
+gunicorn=19.9.0
+xgboost
+sklearn
